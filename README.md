@@ -1,5 +1,5 @@
 # 42-web-server
-#42SkillsChallenge Web Server
+#42SkillsChallenge
 
 1. Web Server
 
